@@ -1,0 +1,13 @@
+.footer {
+    background-color: #161b22;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+h2 {
+    color: aliceblue;
+}
