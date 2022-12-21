@@ -5,6 +5,7 @@ h2 {
 .main-details {
     display: flex;
     margin-top: 10px;
+    color: black;
     border: 2px black solid;
     justify-content: space-evenly;
 }
@@ -16,4 +17,8 @@ h2 {
 
 caption {
     font-size: medium;
+}
+
+.details > h2 {
+    color: black;
 }

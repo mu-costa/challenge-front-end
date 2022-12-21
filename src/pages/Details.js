@@ -20,7 +20,7 @@ function Details () {
 
     console.log(userDetails);
     return(
-    <>
+    <div>
       <Header />
         <main className="main-details">
            <div className="photo">
@@ -40,7 +40,7 @@ function Details () {
         data={userRepos}
         />
         </main>
-    </>
+    </div>
     )
 }
 
