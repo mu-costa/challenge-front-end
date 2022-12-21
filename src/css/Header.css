@@ -1,0 +1,15 @@
+.header {
+    background-color: #161b22;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    color: aliceblue;
+}

@@ -1,0 +1,19 @@
+h2 {
+    color: black;
+}
+
+.main-details {
+    display: flex;
+    margin-top: 10px;
+    border: 2px black solid;
+    justify-content: space-evenly;
+}
+
+.main-details > img {
+    width: 400px;
+    height: 400px;
+}
+
+caption {
+    font-size: medium;
+}
